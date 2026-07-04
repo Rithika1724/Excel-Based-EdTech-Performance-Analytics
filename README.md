@@ -1,4 +1,4 @@
-# 📊 EduPulse: Excel-Based EdTech Performance Analytics
+# 📊 Excel-Based EdTech Performance Analytics
 
 An interactive Microsoft Excel dashboard built to analyze business performance for an Ed-Tech organization. This project transforms raw enrollment, marketing, payment, and trainer data into meaningful business insights using Excel's analytical capabilities.
 
